@@ -1,30 +1,31 @@
 export const generalData = {
-  name: "John Doe",
+  name: "Wani Steven M. Enadio",
   avatar: "https://github.com/ibelick.png",
-  jobTitle: "Senior Front-End Developer",
-  website: "https://www.julienthibeaut.xyz",
+  jobTitle: "Tech and IP Lawyer",
+  website: "https://www.witnesslaw.com",
   about:
-    "Hey there! I'm John, a senior front-end developer with 10 years of experience in web development.",
+    "I’m a Tech and IP lawyer with over nine (9) years of relevant experience in legal practice; corporate \
+    law, legal reviews and policy drafting. I hold a masters degree in Information Technology & IP Law \
+    from University of Sussex - UK, currently I am the CEO of the Center for internet and \
+    Communications (I.COMMs), and I lead theTech & IP department at Witness Law Advocates, I \
+    am well versed with the national, regional and international regulations of telecoms, and the ICT \
+    sector, I have relevant knowledge on data protections, Cyberlaw, and regulations of emerging \
+    technologies such as AI, Blockchains and internet of things (IoT’s)",
   contacts: [
     {
       label: "Email",
-      value: "john.doe@gmail.com",
-      href: "mailto:john.doe@gmail.com",
+      value: "stevenmarkwani@gmail.com",
+      href: "mailto:stevenmarkwani@gmail.com",
     },
     {
-      label: "Twitter",
-      value: "ibelick",
-      href: "https://twitter.com/ibelick",
+      label: "Address",
+      value: "Hai Malakal, East South of UAP Equatoria Tower, Juba -Central Equatoria State, South Sudan ",
+      href: "https://maps.google.com",
     },
     {
-      label: "Github",
-      value: "ibelick",
-      href: "https://github.com/ibelick",
-    },
-    {
-      label: "Read.CV",
-      value: "ibelick",
-      href: "https://read.cv/ibelick",
+      label: "Phone",
+      value: "+211915094741",
+      href: "tel://+211915094741",
     },
   ],
 };
