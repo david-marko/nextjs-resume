@@ -14,8 +14,8 @@ export const generalData = {
   contacts: [
     {
       label: "Email",
-      value: "stevenmarkwani@gmail.com",
-      href: "mailto:stevenmarkwani@gmail.com",
+      value: "wani@witnesslaw.com",
+      href: "mailto:wani@witnesslaw.com",
     },
     {
       label: "Address",
